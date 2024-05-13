@@ -4,7 +4,7 @@
 
 Estou estudando Sistemas de Informação e buscando oportunidades e colaboração em projetos relacionados ao desenvolvimento web.
 
-🧠 Atualmente estou aprendendo CSS, HTML5 e JavaScript.
+🧠 Atualmente estou codando com CSS, HTML5 e JavaScript.
 
 ---
 
